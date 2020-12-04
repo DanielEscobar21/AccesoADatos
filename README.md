@@ -22,17 +22,17 @@ _El programa se conecta al servicio de ["FreeMySQLHosting"](https://www.freemysq
 
 ### Características
 _Se Conectarse al servidor de la base de datos. (Base de datos en red, remota). Tiene una interfaz para poder cambiar los valores de conexión a la base de datos en el apartado de Opciones del Menú. Agregando un archivo de configuración en la carpeta "Log/" con las siguientes datos:_
-            * Server=*SERVIDOR AL QUE SE CONECTA*
-            * Name=*NOMBRE DE LA BASE DE DATOS*
-            * Username=*USUARIO DE LA BASE DE DATOS*
-            * Password=*CONTRASEÑA DE LA BASE DE DATOS*
+* Server=*SERVIDOR AL QUE SE CONECTA*
+* Name=*NOMBRE DE LA BASE DE DATOS*
+* Username=*USUARIO DE LA BASE DE DATOS*
+* Password=*CONTRASEÑA DE LA BASE DE DATOS*
 
 _Se puede Registrar, Modificar, Eliminar y Buscar un registro en la base de datos, fue creado con un Administrador de esquemas GridBagLayout para armar esta interfaz, este elemento se encuentra en el apartado Acciones del Menú._
 
 _Se muestra el listado de todas las personas que ingresaron (Usar un JTable, debe de permitir realizar
 scroll en caso de que la lista sobrepase el área visible):_
-     *Tiene la posibilidad de actualizar los datos en caso de errores al momento del registro.
-     *Se pueden eliminar registros de personas registradas.
+*Tiene la posibilidad de actualizar los datos en caso de errores al momento del registro.
+*Se pueden eliminar registros de personas registradas.
 
 _Se utiliza una interfaz de múltiples documentos (MDI): una ventana principal (a la que se le conoce 
 comúnmente como la ventana padre) que contiene otras ventanas (a las que se les conoce 
