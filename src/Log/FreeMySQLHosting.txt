@@ -1,0 +1,4 @@
+Server=sql3.freemysqlhosting.net:3306
+Name=sql3380112
+Username=sql3380112
+Password=YGfin5Q1Cv
