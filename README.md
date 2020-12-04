@@ -54,7 +54,7 @@ java -cp .;src/Libreria/JDBC.jar exe
 
 
 ## Referencias
-*[Java Swing JTable Simple Example](https://www.codejava.net/java-se/swing/a-simple-jtable-example-for-display)
+* [Java Swing JTable Simple Example](https://www.codejava.net/java-se/swing/a-simple-jtable-example-for-display)
 
 
 ## Version
